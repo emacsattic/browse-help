@@ -1,4 +1,5 @@
-;; browse-help.el - context-sensitive help via a WWW browser for GNU Emacs
+;;; browse-help.el --- Context-sensitive help via a WWW browser for GNU Emacs
+
 ;; Revision: 0.9 Date: 2000/01/04 18:20:00
 
 ;; Author: Tim Anderson <tma@netspace.net.au>
